@@ -177,7 +177,7 @@ body {text-align:center;}
 #xr_nb47 .xr_nb4 {opacity: 0.90;}
 #xr_nb47 .xr_nb5 {border-color: rgba(0,0,0,0.90);}
 #xr_nb47 .xr_nb2 {transition: visibility 300ms;}
-.xr_bgb10 {background:url('1.png') -768px 1649px repeat;}
+.xr_bgb10 {background:url('1.png') -768px 1528px repeat;}
 #xr_nb51 {font-family:Arial; font-size:11px;}
 #xr_nb51 li:hover > a {background-color:#666666; color:#FFFFFF;}
 #xr_nb51 li a {color:#000000; background-color:#B2B2B2; padding:2px; padding-right:20px;}
@@ -199,72 +199,6 @@ body {text-align:center;}
 #xr_nb57 .xr_nb4 {opacity: 0.90;}
 #xr_nb57 .xr_nb5 {border-color: rgba(0,0,0,0.90);}
 #xr_nb57 .xr_nb2 {transition: visibility 300ms;}
-.xr_bgb12 {background:url('1.png') -768px 1830px repeat;}
-#xr_nb61 {font-family:Arial; font-size:11px;}
-#xr_nb61 li:hover > a {background-color:#666666; color:#FFFFFF;}
-#xr_nb61 li a {color:#000000; background-color:#B2B2B2; padding:2px; padding-right:20px;}
-#xr_nb61 li > div {background-color:#B2B2B2; padding:2px;}
-#xr_nb61 .xr_nb6 {background-color:#000000;}
-#xr_nb61 li {border-color:#000000;}
-#xr_nb61 li:hover {border-color:#FFFFFF;}
-#xr_nb61 ul {border: solid 0px #000000; background-color:#B2B2B2;}
-#xr_nb61 .xr_nb2 {transition: visibility 300ms;}
-.xr_bgb13 {background:url('1.png') -768px 1537px repeat;}
-#xr_nb67 {font-family:Arial; font-size:18px;}
-#xr_nb67 li:hover > a {background-color:#009EE0; color:#FFFFFF;}
-#xr_nb67 li a {color:#FFFFFF; background-color:#1D4C6C; padding:10px; padding-right:28px;}
-#xr_nb67 li > div {background-color:#1D4C6C; padding:10px;}
-#xr_nb67 .xr_nb6 {background-color:#FFFFFF;}
-#xr_nb67 li {border-color:#FFFFFF;}
-#xr_nb67 li:hover {border-color:#FFFFFF;}
-#xr_nb67 ul {border: solid 0px #000000; background-color:#1D4C6C;}
-#xr_nb67 .xr_nb4 {opacity: 0.90;}
-#xr_nb67 .xr_nb5 {border-color: rgba(0,0,0,0.90);}
-#xr_nb67 .xr_nb2 {transition: visibility 300ms;}
-.xr_bgb14 {background:url('1.png') -768px 1884px repeat;}
-#xr_nb71 {font-family:Arial; font-size:11px;}
-#xr_nb71 li:hover > a {background-color:#666666; color:#FFFFFF;}
-#xr_nb71 li a {color:#000000; background-color:#B2B2B2; padding:2px; padding-right:20px;}
-#xr_nb71 li > div {background-color:#B2B2B2; padding:2px;}
-#xr_nb71 .xr_nb6 {background-color:#000000;}
-#xr_nb71 li {border-color:#000000;}
-#xr_nb71 li:hover {border-color:#FFFFFF;}
-#xr_nb71 ul {border: solid 0px #000000; background-color:#B2B2B2;}
-#xr_nb71 .xr_nb2 {transition: visibility 300ms;}
-.xr_bgb15 {background:url('1.png') -768px 1537px repeat;}
-#xr_nb77 {font-family:Arial; font-size:18px;}
-#xr_nb77 li:hover > a {background-color:#009EE0; color:#FFFFFF;}
-#xr_nb77 li a {color:#FFFFFF; background-color:#1D4C6C; padding:10px; padding-right:28px;}
-#xr_nb77 li > div {background-color:#1D4C6C; padding:10px;}
-#xr_nb77 .xr_nb6 {background-color:#FFFFFF;}
-#xr_nb77 li {border-color:#FFFFFF;}
-#xr_nb77 li:hover {border-color:#FFFFFF;}
-#xr_nb77 ul {border: solid 0px #000000; background-color:#1D4C6C;}
-#xr_nb77 .xr_nb4 {opacity: 0.90;}
-#xr_nb77 .xr_nb5 {border-color: rgba(0,0,0,0.90);}
-#xr_nb77 .xr_nb2 {transition: visibility 300ms;}
-.xr_bgb16 {background:url('1.png') -768px 1528px repeat;}
-#xr_nb81 {font-family:Arial; font-size:11px;}
-#xr_nb81 li:hover > a {background-color:#666666; color:#FFFFFF;}
-#xr_nb81 li a {color:#000000; background-color:#B2B2B2; padding:2px; padding-right:20px;}
-#xr_nb81 li > div {background-color:#B2B2B2; padding:2px;}
-#xr_nb81 .xr_nb6 {background-color:#000000;}
-#xr_nb81 li {border-color:#000000;}
-#xr_nb81 li:hover {border-color:#FFFFFF;}
-#xr_nb81 ul {border: solid 0px #000000; background-color:#B2B2B2;}
-#xr_nb81 .xr_nb2 {transition: visibility 300ms;}
-.xr_bgb17 {background:url('1.png') -768px 1537px repeat;}
-#xr_nb87 {font-family:Arial; font-size:18px;}
-#xr_nb87 li:hover > a {background-color:#009EE0; color:#FFFFFF;}
-#xr_nb87 li a {color:#FFFFFF; background-color:#1D4C6C; padding:10px; padding-right:28px;}
-#xr_nb87 li > div {background-color:#1D4C6C; padding:10px;}
-#xr_nb87 .xr_nb6 {background-color:#FFFFFF;}
-#xr_nb87 li {border-color:#FFFFFF;}
-#xr_nb87 li:hover {border-color:#FFFFFF;}
-#xr_nb87 ul {border: solid 0px #000000; background-color:#1D4C6C;}
-#xr_nb87 .xr_nb4 {opacity: 0.90;}
-#xr_nb87 .xr_nb5 {border-color: rgba(0,0,0,0.90);}
-#xr_nb87 .xr_nb2 {transition: visibility 300ms;}
 }
 @media print {
  .xr_mvpo {display:none;}
